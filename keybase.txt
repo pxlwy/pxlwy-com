@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/pxlwy
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://pxlwy.com
+  * I am pxlwy (https://keybase.io/pxlwy) on keybase.
+  * I have a public key ASB8hA0Saqm5GVGPcuh-AVPFzMeL-qiZnFBHIgCsdJUdbwo
+
+To do so, I am signing this object:
+
+{
+    &quot;body&quot;: {
+        &quot;key&quot;: {
+            &quot;eldest_kid&quot;: &quot;01207c840d126aa9b919518f72e87e0153c5ccc78bfaa8999c50472200ac74951d6f0a&quot;,
+            &quot;host&quot;: &quot;keybase.io&quot;,
+            &quot;kid&quot;: &quot;01207c840d126aa9b919518f72e87e0153c5ccc78bfaa8999c50472200ac74951d6f0a&quot;,
+            &quot;uid&quot;: &quot;9650043f34b70f7cf23607eedf624b19&quot;,
+            &quot;username&quot;: &quot;pxlwy&quot;
+        },
+        &quot;merkle_root&quot;: {
+            &quot;ctime&quot;: 1500252896,
+            &quot;hash&quot;: &quot;00f6b50d95533c13cac6ba0aec8e7788bd91d8119e6001a4e19244c9f7a25a17486f7e43057817a335482653c2eb59929a5081199eb3f24344e31027e0e8525a&quot;,
+            &quot;hash_meta&quot;: &quot;3831a0077ecd977f22e21415eba3b98d0395878bbb2f5b8c85403cec951719e1&quot;,
+            &quot;seqno&quot;: 1237177
+        },
+        &quot;service&quot;: {
+            &quot;hostname&quot;: &quot;pxlwy.com&quot;,
+            &quot;protocol&quot;: &quot;http:&quot;
+        },
+        &quot;type&quot;: &quot;web_service_binding&quot;,
+        &quot;version&quot;: 1
+    },
+    &quot;client&quot;: {
+        &quot;name&quot;: &quot;keybase.io go client&quot;,
+        &quot;version&quot;: &quot;1.0.24&quot;
+    },
+    &quot;ctime&quot;: 1500252946,
+    &quot;expire_in&quot;: 504576000,
+    &quot;prev&quot;: &quot;da8480c71469fe03baff41a123bc26d154102f5ea7264b2abbc12f5a3efcc1fc&quot;,
+    &quot;seqno&quot;: 5,
+    &quot;tag&quot;: &quot;signature&quot;
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgfIQNEmqpuRlRj3LofgFTxczHi/qomZxQRyIArHSVHW8Kp3BheWxvYWTFAz17ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwN2M4NDBkMTI2YWE5YjkxOTUxOGY3MmU4N2UwMTUzYzVjY2M3OGJmYWE4OTk5YzUwNDcyMjAwYWM3NDk1MWQ2ZjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwN2M4NDBkMTI2YWE5YjkxOTUxOGY3MmU4N2UwMTUzYzVjY2M3OGJmYWE4OTk5YzUwNDcyMjAwYWM3NDk1MWQ2ZjBhIiwidWlkIjoiOTY1MDA0M2YzNGI3MGY3Y2YyMzYwN2VlZGY2MjRiMTkiLCJ1c2VybmFtZSI6InB4bHd5In0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTAwMjUyODk2LCJoYXNoIjoiMDBmNmI1MGQ5NTUzM2MxM2NhYzZiYTBhZWM4ZTc3ODhiZDkxZDgxMTllNjAwMWE0ZTE5MjQ0YzlmN2EyNWExNzQ4NmY3ZTQzMDU3ODE3YTMzNTQ4MjY1M2MyZWI1OTkyOWE1MDgxMTk5ZWIzZjI0MzQ0ZTMxMDI3ZTBlODUyNWEiLCJoYXNoX21ldGEiOiIzODMxYTAwNzdlY2Q5NzdmMjJlMjE0MTVlYmEzYjk4ZDAzOTU4NzhiYmIyZjViOGM4NTQwM2NlYzk1MTcxOWUxIiwic2Vxbm8iOjEyMzcxNzd9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoicHhsd3kuY29tIiwicHJvdG9jb2wiOiJodHRwOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4yNCJ9LCJjdGltZSI6MTUwMDI1Mjk0NiwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsInByZXYiOiJkYTg0ODBjNzE0NjlmZTAzYmFmZjQxYTEyM2JjMjZkMTU0MTAyZjVlYTcyNjRiMmFiYmMxMmY1YTNlZmNjMWZjIiwic2Vxbm8iOjUsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAxnuferZOR6JzvWHPaI+wRCcnXXCRq0pT+H8N/Bn+MhLMxSgjR4/XWZDwHdXzuPAmpxchlEtx9mLM94z1YadjBahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIP2wK1ZAG1ea7M2la2Ja1gETd4ay6OwtopSCM8uVghgqo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/pxlwy
+
+==================================================================
