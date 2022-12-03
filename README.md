@@ -1,0 +1,7 @@
+# pxlwy.com, 2017
+When I came out, non-binary identities weren't as visibly represented or understood as they are now, even within the queer community. Stonewall first used the term 'non-binary' in a tweet in [October 2014](https://twitter.com/search?q=(non-binary%20OR%20nonbinary)%20(from%3Astonewalluk)%20until%3A2017-01-31%20since%3A2006-01-01&src=typed_query&f=top) and other organisations like Brighton &amp; Hove Pride and Pride Cymru first used it even later (2018 and 2019, respectively). Despite International Non-Binary People's Day first being celebrated in 2012, the hashtag #nonbinaryday was first used by a single user in 2015 and just six users in 2016.
+
+In this context, in order to come out as non-binary, I needed to explain to many people in my life what that actually meant. In an effort to avoid having the same conversations over and over, I created a webpage using the interactive fiction tool Twine to come out to everyone simultaneously, which I did in July 2017. In addition to sharing it both publicly and privately, I put it in my email signature and later heard stories of it being shared more broadly to explain non-binary identities.
+
+I have restored the webpage to its original condition, except for obscuring mentions of my deadname. If I were making it now, there is a lot that I would change: the language is clunky and apologetic, and doesn't entirely fit with who I am now and my current understanding of my gender identity — but I also wouldn't *need* to make it now as we are far more visibly represented and understood.
+
